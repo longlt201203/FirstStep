@@ -1,0 +1,20 @@
+<?php
+//error_reporting(0);
+require "../config/app_info.php";
+require "../config/custom_app_info.php";
+require "../engine/processor/basic_mysql.php";
+require "../engine/processor/db_connection.php";
+require "../engine/model/account.php";
+require "../engine/model/brand.php";
+require "../engine/model/category.php";
+require "../engine/model/product.php";
+require "../engine/model/bill.php";
+require "view/head.php";
+require "view/navigation_panel.php";
+require "view/edit_app_info.php";
+require "view/account.php";
+require "view/brand.php";
+require "view/category.php";
+require "view/product.php";
+require "view/bills.php";
+require "view/footer.php";

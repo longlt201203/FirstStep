@@ -1,0 +1,4 @@
+AuthName "Login Admin"
+AuthType Basic
+AuthUserFile "C:/xampp/htdocs/FirstStep/admin/.htpasswd"
+Require valid-user

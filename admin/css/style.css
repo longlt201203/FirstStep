@@ -1,0 +1,17 @@
+#navigation-panel {
+    border: 1px solid black;
+    padding: 20px;
+    width: 300px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+a.a-button {
+    color: #003eff;
+    cursor: pointer;
+}
+
+a.a-button:hover {
+    text-decoration: underline;
+}

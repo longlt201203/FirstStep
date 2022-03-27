@@ -1,0 +1,3 @@
+ErrorDocument 403 "/FirstStep/error/403.php"
+ErrorDocument 404 "/FirstStep/error/404.php"
+ErrorDocument 500 "/FirstStep/error/500.php"
